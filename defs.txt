@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat May  4 11:01:59 2019
+"""
+
+What is anatically unsolvable function?
+-Anatically unsolvable functions are non-linear functions.
+
+What is monte carlo integration ?
+-Monte Carlo integration is technique for numerical integration using random
+numbers.Monte carlo randomly choose points at which the integrand is 
+evaulated.
